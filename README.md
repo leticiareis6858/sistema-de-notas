@@ -7,6 +7,6 @@ Consiste em uma aplicação de console feita em C#, onde é possível inserir al
 1. Peça para o usuário informar quantas notas quer cadastrar.
 2. Armazene em um array.
 3. Mostre:
-    -A média geral
+    - A média geral
     - A maior e menor nota
     - Quantas notas foram acima de 7
