@@ -1,0 +1,14 @@
+C:\Users\letic\source\repos\SistemaDeNotas\bin\Debug\net8.0\SistemaDeNotas.exe
+C:\Users\letic\source\repos\SistemaDeNotas\bin\Debug\net8.0\SistemaDeNotas.deps.json
+C:\Users\letic\source\repos\SistemaDeNotas\bin\Debug\net8.0\SistemaDeNotas.runtimeconfig.json
+C:\Users\letic\source\repos\SistemaDeNotas\bin\Debug\net8.0\SistemaDeNotas.dll
+C:\Users\letic\source\repos\SistemaDeNotas\bin\Debug\net8.0\SistemaDeNotas.pdb
+C:\Users\letic\source\repos\SistemaDeNotas\obj\Debug\net8.0\SistemaDeNotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\letic\source\repos\SistemaDeNotas\obj\Debug\net8.0\SistemaDeNotas.AssemblyInfoInputs.cache
+C:\Users\letic\source\repos\SistemaDeNotas\obj\Debug\net8.0\SistemaDeNotas.AssemblyInfo.cs
+C:\Users\letic\source\repos\SistemaDeNotas\obj\Debug\net8.0\SistemaDeNotas.csproj.CoreCompileInputs.cache
+C:\Users\letic\source\repos\SistemaDeNotas\obj\Debug\net8.0\SistemaDeNotas.dll
+C:\Users\letic\source\repos\SistemaDeNotas\obj\Debug\net8.0\refint\SistemaDeNotas.dll
+C:\Users\letic\source\repos\SistemaDeNotas\obj\Debug\net8.0\SistemaDeNotas.pdb
+C:\Users\letic\source\repos\SistemaDeNotas\obj\Debug\net8.0\SistemaDeNotas.genruntimeconfig.cache
+C:\Users\letic\source\repos\SistemaDeNotas\obj\Debug\net8.0\ref\SistemaDeNotas.dll
